@@ -1,5 +1,3 @@
-/* Créé par Jonathan Roux - Utilisation interdite dans une autre formation */
-
 body {
   margin: 0;
   line-height: normal;
@@ -21,7 +19,7 @@ body {
 :root {
 
   /* Paramètres */
-  --nom-marque: 'MarketingIA';
+  --nom-marque: 'Strategie-Marketing-IA';
   --taille-logo: 30px;
   --fichier-logo: url("./public/logo@2x.png");
 
